@@ -1,0 +1,1 @@
+Los pasos que se han seguido han sido: creación del repositorio en github, creacion del repositorio local, creacion de la estructura de archivos, comit inicial con la estructura hecha, creacion de la rama "AndresAlejandroRomeraMata" y comit de la rama al main
